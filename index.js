@@ -1,3 +1,4 @@
+const localstorage = '';
 const supabaseUrl = ''; 
 const supabaseAnonKey = '';
 
