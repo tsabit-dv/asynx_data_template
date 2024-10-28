@@ -1,4 +1,4 @@
-# Supabase Data Synchronization
+# Safety Job Repo -- CC Smartinterlink
 
 This repository demonstrates how to implement asynchronous data synchronization between local storage and Supabase using three different programming languages: JavaScript, Java, and C++.
 
